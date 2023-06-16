@@ -5,6 +5,6 @@ namespace WebAPI.Config
     {
         public const string DatabaseName = "CompanyDB";
         public const string DocumentsDirectory = "Documents";
-        public const string AbsoluteDocumentsDirectory = @"C:\Users\Janez\source\WebAPI\WebAPI\Documents";
+        public const string AbsoluteDocumentsDirectory = @"C:\Documents";
     }
 }
